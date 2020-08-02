@@ -25,7 +25,7 @@ docker image rm [imageName]
 ​	查找image:
 
 ```dockerfile
-doker search [imageName]
+docker search [imageName]
 ```
 
 ```bash
